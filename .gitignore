@@ -1,0 +1,7 @@
+# Generated simulation & synthesis outputs
+sim/
+synth/
+
+# Python
+__pycache__/
+*.py[cod]
